@@ -28,7 +28,3 @@ To run this app locally, follow these steps:
 ## Usage
 
 To use the app, simply enter the name of the city you want to search for in the search bar and click the "Search" button. The app will retrieve weather data from the OpenWeatherMap API and display it on the screen.
-
-## License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
