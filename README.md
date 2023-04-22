@@ -25,8 +25,6 @@ To run this app locally, follow these steps:
 1. Clone this repository to your local machine
 2. Open index.html in your preferred web browser
 
-Alternatively, you can view a live demo of the app [here](https://leonelmadrid13.github.io/Weather-app/).
-
 ## Usage
 
 To use the app, simply enter the name of the city you want to search for in the search bar and click the "Search" button. The app will retrieve weather data from the OpenWeatherMap API and display it on the screen.
