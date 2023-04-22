@@ -1,38 +1,36 @@
-# create-svelte
+# Weather App
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+This is a simple weather app that allows you to search for the weather of a specific city. It uses the OpenWeatherMap API to retrieve weather data and displays it in an easy-to-read format.
 
-## Creating a project
+## Features
 
-If you're seeing this, you've probably already done this step. Congrats!
+- Search for the weather of any city in the world
+- Displays the current temperature, weather condition, and wind speed
+- Automatically detects and displays the user's current location
 
-```bash
-# create a new project in the current directory
-npm create svelte@latest
+## Technologies
 
-# create a new project in my-app
-npm create svelte@latest my-app
-```
+The following technologies were used in the development of this app:
 
-## Developing
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+- OpenWeatherMap API
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+## Installation
 
-```bash
-npm run dev
+To run this app locally, follow these steps:
 
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
+1. Clone this repository to your local machine
+2. Open index.html in your preferred web browser
 
-## Building
+Alternatively, you can view a live demo of the app [here](https://leonelmadrid13.github.io/Weather-app/).
 
-To create a production version of your app:
+## Usage
 
-```bash
-npm run build
-```
+To use the app, simply enter the name of the city you want to search for in the search bar and click the "Search" button. The app will retrieve weather data from the OpenWeatherMap API and display it on the screen.
 
-You can preview the production build with `npm run preview`.
+## License
 
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
