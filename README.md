@@ -23,7 +23,8 @@ The following technologies were used in the development of this app:
 To run this app locally, follow these steps:
 
 1. Clone this repository to your local machine
-2. Open index.html in your preferred web browser
+2. install dependencies `npm install`
+3. run `npm dev`
 
 ## Usage
 
